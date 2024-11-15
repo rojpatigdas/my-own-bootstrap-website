@@ -3,4 +3,12 @@ body {
     background-position-x: center;
   }
 
-  
+ .ryujin{
+    background-color: red;
+    
+ } 
+
+ .border-top{
+    margin-left: 280px !important;
+ }
+
